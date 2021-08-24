@@ -61,3 +61,5 @@ These are some technologies that i know:
       </tr>
 </center>
 <br/>
+
+![Snake animation](https://github.com/guilhermevieirasilvagoncalves/guilhermevieirasilvagoncalves/blob/output/github-contribution-grid-snake.svg)
