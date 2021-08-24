@@ -18,7 +18,7 @@
 - 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
 
-## Technologies
+### Technologies
 
 These are some technologies that i know:
 
@@ -44,7 +44,7 @@ These are some technologies that i know:
 </p>
 
 
-## GitHub Stats
+### GitHub Stats
 <br/>
 
 
