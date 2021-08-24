@@ -39,4 +39,23 @@ These are some technologies that i know:
   <a href="https://linkedin.com/guilhermevieirasilvagoncalves"><img src="https://img.shields.io/badge/-Guilherme%20Vieira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:guilhermevieirasilvag@gmail.com"><img src="https://img.shields.io/badge/-guilhermevieirasilvag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/lliewp"><img src="https://img.shields.io/badge/-@lliewp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>  
+</p>
+
+
+## GitHub Stats
+<br/>
+
+
+<center>
+    <tr>
+      <td>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=guilhermevieirasilvagoncalves&show_icons=true&count_private=true&hide_border=true&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&include_all_commits=true&theme=yeblu" alt="Bruno's github stats"/>
+          </a></p>
+       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermevieirasilvagoncalves&hide_border=true&theme=yeblu"  alt="Bruno's github stats"/></a></p>
+      </td>
+       <td>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermevieirasilvagoncalves&layout=compact&langs_count=20&hide_border=true&theme=yeblu" alt="Bruno's github stats"/> </a></p>
+      </td>
+      </tr>
+</center>
+<br/>
