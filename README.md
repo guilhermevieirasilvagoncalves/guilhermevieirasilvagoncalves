@@ -36,7 +36,7 @@ These are some technologies that i know:
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/guilhermevieirasilvagoncalves"><img src="https://img.shields.io/badge/-Guilherme%20Vieira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guilhermevieirasilvagoncalves/"><img src="https://img.shields.io/badge/-Guilherme%20Vieira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:guilhermevieirasilvag@gmail.com"><img src="https://img.shields.io/badge/-guilhermevieirasilvag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/lliewp"><img src="https://img.shields.io/badge/-@lliewp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
