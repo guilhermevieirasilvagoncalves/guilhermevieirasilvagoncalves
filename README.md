@@ -1,24 +1,26 @@
-### hey, what's up? 
+### Hey, what's up? 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### welcome to my github!
+### Welcome to my github!
 <p>
-  i'm Guilherme Vieira, brazilian software developer 💻.
+  I'm Guilherme Vieira, brazilian software developer 💻.
 </p>
 
 ### About me
 
-- 👨‍🎓 i'm a Computer Science Student at Centro Universitário FEI;
+- 👨‍🎓 I'm a Computer Science Student at Centro Universitário FEI;
 
-- 📚 i’m currently learning C, React and React Native; 
+- 🌎 I speak English and Portuguese; 
 
-- 🔥 in case of fire: 1. git commit 2. git push 3. leave building 
+- 📚 I’m currently learning C, React and React Native; 
+
+- 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
 
 ## Technologies
 
-these are some technologies that i know:
+These are some technologies that i know:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -30,14 +32,11 @@ these are some technologies that i know:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 <p align="left">
-  💌 contact: ⤵️
+  💌 Contact: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guilhermevieirasilvag@gmail.com" /></a>
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermevieirasilvagoncalves/" /></a>
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lliewp/"/></a>
+  <a href="https://linkedin.com/guilhermevieirasilvagoncalves"><img src="https://img.shields.io/badge/-Guilherme%20Vieira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:guilhermevieirasilvag@gmail.com"><img src="https://img.shields.io/badge/-guilhermevieirasilvag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/lliewp"><img src="https://img.shields.io/badge/-@lliewp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>  
