@@ -13,7 +13,7 @@
 
 - 🌎 I speak English and Portuguese; 
 
-- 📚 I’m currently learning C, C++, React and React Native; 
+- 📚 I’m currently learning C, C++, and C#; 
 
 - 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
