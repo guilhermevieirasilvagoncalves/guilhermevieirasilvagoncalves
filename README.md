@@ -9,7 +9,7 @@
 
 ### About me
 
-- 👨‍🎓 I'm a Computer Science Student at Centro Universitário FEI;
+- 👨‍🎓 I'm a Computer Science Student at [Centro Universitário FEI](https://portal.fei.edu.br/);
 
 - 🌎 I speak English and Portuguese; 
 
