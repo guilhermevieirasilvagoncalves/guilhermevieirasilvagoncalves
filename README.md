@@ -17,7 +17,7 @@
 
 - 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
-- 🔬 Learn more about my researches at [Lates](http://lattes.cnpq.br/1068463278563669)
+- 🔬 Learn more about my researches clicking here: [Lattes](http://lattes.cnpq.br/1068463278563669)
 
 ### Technologies
 
