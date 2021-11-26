@@ -9,7 +9,7 @@
 
 ### About me
 
-- 👨‍🎓 I'm a Computer Science Student at [Centro Universitário FEI](https://portal.fei.edu.br/);
+- 👨‍🎓 I'm a Computer Science Student at [Centro Universitário FEI](https://portal.fei.edu.br/)
 
 - 🌎 I speak English and Portuguese; 
 
@@ -17,6 +17,7 @@
 
 - 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
+- 🔬 Learn more about my researches at [Lates](http://lattes.cnpq.br/1068463278563669)
 
 ### Technologies
 
