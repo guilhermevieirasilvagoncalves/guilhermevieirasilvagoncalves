@@ -13,7 +13,7 @@
 
 - 🌎 I speak English and Portuguese; 
 
-- 📚 I’m currently learning Java, C++, and C#; 
+- 📚 I’m currently learning Arduin, React and Data Structure; 
 
 - 🔥 In case of fire: 1. git commit 2. git push 3. leave building 
 
