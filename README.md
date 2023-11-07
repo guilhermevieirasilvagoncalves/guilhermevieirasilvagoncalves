@@ -4,7 +4,7 @@
 
 ### Welcome to my github!
 <p>
-  I'm Guilherme Vieira, a brazilian software developer 💻.
+  I'm Guilherme Vieira, a brazilian data analyst 💻.
 </p>
 
 ### About me
